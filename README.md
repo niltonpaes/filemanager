@@ -1,4 +1,3 @@
-# filemanager
-FileManager App
+# FileManager App
 
-Live App: https://filemanager.niltonpaes.website/
+https://filemanager.niltonpaes.website/
